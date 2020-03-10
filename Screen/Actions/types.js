@@ -1,0 +1,1 @@
+export const DemoTypes = 'Demo_Types'
